@@ -1,2 +1,2 @@
 # js-scorekeeper
-js practice - scorekeeper
+js practice - scorekeeper - using bulma
